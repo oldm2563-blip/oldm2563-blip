@@ -23,7 +23,7 @@
 
 🌱 I'm currently open to **junior and pre-hiring roles in Morocco**
 
-💬 Ask me about **Laravel, Spring Boot, React, MySQL... or anything [here](https://github.com/YOUR-USERNAME/YOUR-USERNAME/issues)**
+💬 Ask me about **Laravel, Spring Boot, React, MySQL... or anything [here](https://github.com/YOUR-USERNAME/oldm2563-blip/issues)**
 
 </div>
 
